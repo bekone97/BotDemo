@@ -1,0 +1,10 @@
+package com.godeltech.botdemo;
+
+public enum Callbacks {
+    SET_COMMAND, DEL_COMMAND,
+    INTERNAL_URL, INNER_URL,
+    ALERT_ONE,ALERT_TWO,
+    MESSAGE, PHOTO, STICKER, VIDEO, AUDIO,
+    MARKUP, ONE_TIME_MARKUP, DEL_MARKUP,
+    PAYMENT,MAIN_MENU
+}
